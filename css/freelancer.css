@@ -522,3 +522,25 @@ footer .footer-below {
     display: none;
     opacity: 0;
 }
+
+.paper-conf {
+    font-style: italic;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 1.2em;
+}
+
+.muted {
+    color: #999999;
+}
+
+.paper-title {
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.paper-authors {
+    display: block;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 1.2em;
+}
